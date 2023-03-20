@@ -1,0 +1,56 @@
+[
+    {
+        "ColName": "SO2",
+        "MM":false,
+        "Zs": false,
+        "Cou": false
+    },
+    {
+        "ColName": "H2S",
+        "MM":false,
+        "Zs": false,
+        "Cou": false
+    },
+    {
+        "ColName": "CH4",
+        "MM":false,
+        "Zs": false,
+        "Cou": false
+    },
+    {
+        "ColName": "TVOC",
+        "MM":false,
+        "Zs": false,
+        "Cou": false
+    },
+    {
+        "ColName": "风速",
+        "MM":false,
+        "Zs": false,
+        "Cou": false
+    },
+    {
+        "ColName": "风向",
+        "MM":false,
+        "Zs": false,
+        "Cou": false
+    },
+    {
+        "ColName": "温度",
+        "MM":false,
+        "Zs": false,
+        "Cou": false
+    },
+    {
+        "ColName": "湿度",
+        "MM":false,
+        "Zs": false,
+        "Cou": false
+    },
+    {
+        "ColName": "气压",
+        "MM":false,
+        "Zs": false,
+        "Cou": false
+    }
+]

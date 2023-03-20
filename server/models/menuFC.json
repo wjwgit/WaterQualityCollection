@@ -1,0 +1,185 @@
+[
+    {
+        "com": "lctfc",
+        "url": "/lctfc",
+        "name": "首页",
+        "icon": "iconfont icon-liucheng1",
+        "SoftType": 21,
+        "isShow": true
+    },
+   
+    {
+        "com": "sssj",
+        "url": "/sssj",
+        "name": "实时数据",
+        "icon": "iconfont icon-shishijiance",
+        "SoftType": 1,
+        "isShow": true
+    },
+    {
+        "com": "sjcx",
+        "url": "/sjcx",
+        "name": "数据查询",
+        "icon": "iconfont icon-shuju",
+        "isShow": true,
+        "children": [
+      
+            {
+                "url": "/jcsj",
+                "name": "历史数据",
+                "icon": "",
+                "alert": "",
+                "isAlert": false,
+                "SoftType": 1,
+                "isShow": true
+            },
+            {
+                "url": "/zkcx",
+                "name": "质控数据",
+                "icon": "",
+                "alert": "",
+                "isAlert": false,
+                "SoftType": 1,
+                "isShow": true
+            },
+            {
+                "url": "/dcsj",
+                "name": "电池数据",
+                "icon": "",
+                "alert": "",
+                "isAlert": false,
+                "SoftType": 1,
+                "isShow": true
+            },
+            {
+                "url": "/sbsj",
+                "name": "上报数据",
+                "icon": "",
+                "alert": "",
+                "isAlert": false,
+                "SoftType": 1,
+                "isShow": true
+            },
+            {
+                "url": "/bjsj",
+                "name": "报警数据",
+                "icon": "",
+                "alert": "",
+                "isAlert": false,
+                "SoftType": 1,
+                "isShow": true
+            },
+            {
+                "url": "/rzsj",
+                "name": "日志数据",
+                "icon": "",
+                "alert": "",
+                "isAlert": false,
+                "SoftType": 1,
+                "isShow": true
+            }
+        ]
+    },
+    {
+        "com": "tjfx",
+        "url": "/tjfx",
+        "name": "统计分析",
+        "icon": "iconfont icon-quxiantu1",
+        "isShow": true,
+        "children": [
+            {
+                "url": "/qxfx",
+                "name": "曲线分析",
+                "icon": "",
+                "alert": "",
+                "isAlert": false,
+                "SoftType": 1,
+                "isShow": true
+            }
+            
+        ]
+    },
+    {
+        "com": "cssz",
+        "url": "/cssz",
+        "name": "参数设置",
+        "icon": "iconfont icon-shezhi4",
+        "SoftType": 1,
+        "isShow": true
+    },
+    {
+        "com": "zlkz",
+        "url": "/zlkz",
+        "name": "质量控制",
+        "icon": "iconfont icon-kaoherenwu",
+        "isShow": true,
+        "children": [
+            {
+                "url": "/khrw",
+                "name": "周质控",
+                "icon": "",
+                "alert": "",
+                "isAlert": false,
+                "SoftType": 1,
+                "isShow": true
+            },
+            {
+                "url": "/jbkz",
+                "name": "月质控",
+                "icon": "",
+                "alert": "",
+                "isAlert": false,
+                "SoftType": 1,
+                "isShow": true
+            }
+        ]
+    },
+    
+    {
+        "com": "xtkz",
+        "url": "/xtkz",
+        "name": "系统控制",
+        "icon": "iconfont icon-xitongkongzhi",
+        "SoftType": 1,
+        "isShow": true
+    },
+  
+ 
+    {
+        "com": "xtgl",
+        "url": "/xtgl",
+        "name": "系统管理",
+        "icon": "iconfont icon-qitapeizhi",
+        "isShow": true,
+        "children": [
+            {
+                "url": "/jbsz",
+                "name": "基本设置",
+                "icon": "icon-yonghu1",
+                "alert": "",
+                "isAlert": false,
+                "SoftType": 1,
+                "isShow": true
+            },
+            {
+                "url": "/yhgl",
+                "name": "用户管理",
+                "icon": "icon-yonghu1",
+                "alert": "",
+                "isAlert": false,
+                "SoftType": 1,
+                "isShow": true
+            },
+          
+            {
+                "url": "/sbgl",
+                "name": "设备管理",
+                "icon": "",
+                "alert": "",
+                "isAlert": false,
+                "SoftType": 1,
+                "isShow": true
+            }
+        ]
+    }
+]

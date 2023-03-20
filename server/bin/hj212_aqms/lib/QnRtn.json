@@ -1,0 +1,22 @@
+{
+    "1":"READY",
+    "READY":"1",
+    "2":"REJECT",
+    "REJECT":"2",
+    "3":"E_PW",
+    "E_PW":"3",
+    "4":"E_MN",
+    "E_MN":"4",
+    "5":"E_ST",
+    "E_ST":"5",
+    "6":"E_Flag",
+    "E_Flag":"6",
+    "7":"E_QN",
+    "E_QN":"7",
+    "8":"E_CN",
+    "E_CN":"8",
+    "9":"E_CRC",
+    "E_CRC":"9",
+    "100":"UNKNOWN",
+    "UNKNOWN":"100"
+}

@@ -1,0 +1,8 @@
+{
+    "defaultuser": {
+        "name": "admin",
+        "pass": "123456",
+        "role": 1,
+        "desc": "管理员"
+    }
+}

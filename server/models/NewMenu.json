@@ -1,0 +1,277 @@
+[
+    {
+        "com": "sssj",
+        "url": "/sssj",
+        "name": "首页",
+        "icon": "iconfont icon-shishijiance",
+        "SoftType": 32,
+        "isShow": true
+    },
+    {
+        "com": "ywgl",
+        "url": "/ywgl",
+        "name": "运维管理",
+        "icon": "iconfont icon-kaoherenwu",
+        "isShow": true,
+        "children": [
+            {
+                "com": "ywjl",
+                "url": "/ywjl",
+                "name": "运维记录",
+                "SoftType": 1,
+                "isShow": true
+            },
+            {
+                "com": "bbjl",
+                "url": "/bbjl",
+                "name": "报备记录",
+                "SoftType": 1,
+                "isShow": true
+            },
+            {
+                "com": "cssz",
+                "url": "/cssz",
+                "name": "参数设置",
+                "SoftType": 1,
+                "isShow": true
+            },
+            {
+                "com": "xtkz",
+                "url": "/xtkz",
+                "name": "系统控制",
+                "SoftType": 1,
+                "isShow": true
+            },
+            {
+                "com": "plcbfkz",
+                "url": "/plcbfkz",
+                "name": "泵阀控制",
+                "SoftType": 1,
+                "isShow": false
+            },
+            {
+                "com": "spjk",
+                "url": "/spjk",
+                "name": "视频监控",
+                "SoftType": 32,
+                "isShow": true
+            },
+            {
+                "url": "/bjhcgl",
+                "name": "备件耗材管理",
+                "icon": "",
+                "alert": "",
+                "isAlert": false,
+                "SoftType": 32,
+                "isShow": true
+            }
+        ]
+    },
+    {
+        "com": "sjcx",
+        "url": "/sjcx",
+        "name": "数据查询",
+        "icon": "iconfont icon-shuju",
+        "isShow": true,
+        "children": [
+            {
+                "url": "/wscx",
+                "name": "历史数据",
+                "icon": "",
+                "alert": "",
+                "isAlert": false,
+                "SoftType": 32,
+                "isShow": true
+            },
+            {
+                "url": "/zkcx",
+                "name": "质控数据",
+                "icon": "",
+                "alert": "",
+                "isAlert": false,
+                "SoftType": 1,
+                "isShow": true
+            },
+            {
+                "url": "/zjsj",
+                "name": "自检数据",
+                "icon": "",
+                "alert": "",
+                "isAlert": false,
+                "SoftType": 1,
+                "isShow": true
+            },
+            {
+                "url": "/sbsj",
+                "name": "上报数据",
+                "icon": "",
+                "alert": "",
+                "isAlert": false,
+                "SoftType": 1,
+                "isShow": true
+            },
+            {
+                "url": "/yjsj",
+                "name": "预警数据",
+                "icon": "",
+                "alert": "",
+                "isAlert": false,
+                "SoftType": 32,
+                "isShow": true
+            },
+            {
+                "url": "/bjsj",
+                "name": "报警数据",
+                "icon": "",
+                "alert": "",
+                "isAlert": false,
+                "SoftType": 1,
+                "isShow": true
+            },
+            {
+                "url": "/rzsj",
+                "name": "日志数据",
+                "icon": "",
+                "alert": "",
+                "isAlert": false,
+                "SoftType": 1,
+                "isShow": true
+            }
+        ]
+    },
+    {
+        "com": "zlkz",
+        "url": "/zlkz",
+        "name": "质量控制",
+        "icon": "iconfont icon-kaoherenwu",
+        "isShow": true,
+        "children": [
+            {
+                "url": "/khrw",
+                "name": "周质控",
+                "icon": "",
+                "alert": "",
+                "isAlert": false,
+                "SoftType": 32,
+                "isShow": false
+            },
+            {
+                "url": "/jdbd",
+                "name": "手工比对",
+                "icon": "",
+                "alert": "",
+                "isAlert": false,
+                "SoftType": 32,
+                "isShow": true
+            },
+            {
+                "url": "/dtjb",
+                "name": "动态加标",
+                "icon": "",
+                "alert": "",
+                "isAlert": false,
+                "SoftType": 32,
+                "isShow": false
+            }
+        ]
+    },
+    {
+        "com": "tjfx",
+        "url": "/tjfx",
+        "name": "统计分析",
+        "icon": "iconfont icon-quxiantu1",
+        "isShow": true,
+        "children": [
+            {
+                "url": "/sjcbtj",
+                "name": "数据超标统计",
+                "icon": "",
+                "alert": "",
+                "isAlert": false,
+                "SoftType": 32,
+                "isShow": true
+            },
+            {
+                "url": "/ywzqtj",
+                "name": "运维周期统计",
+                "icon": "",
+                "alert": "",
+                "isAlert": false,
+                "SoftType": 32,
+                "isShow": true
+            },
+            {
+                "url": "/yxsjtj",
+                "name": "有效数据统计",
+                "icon": "",
+                "alert": "",
+                "isAlert": false,
+                "SoftType": 32,
+                "isShow": true
+            },
+            {
+                "url": "/yxsctj",
+                "name": "运行时长统计",
+                "icon": "",
+                "alert": "",
+                "isAlert": false,
+                "SoftType": 32,
+                "isShow": true
+            }
+        ]
+    },
+    {
+        "com": "xtgl",
+        "url": "/xtgl",
+        "name": "系统管理",
+        "icon": "iconfont icon-qitapeizhi",
+        "isShow": true,
+        "children": [
+            {
+                "url": "/jbsz",
+                "name": "基本设置",
+                "icon": "icon-yonghu1",
+                "alert": "",
+                "isAlert": false,
+                "SoftType": 1,
+                "isShow": true
+            },
+            {
+                "url": "/yhgl",
+                "name": "用户管理",
+                "icon": "icon-yonghu1",
+                "alert": "",
+                "isAlert": false,
+                "SoftType": 1,
+                "isShow": true
+            },
+            {
+                "url": "/sbgl",
+                "name": "设备管理",
+                "icon": "",
+                "alert": "",
+                "isAlert": false,
+                "SoftType": 1,
+                "isShow": true
+            },
+            {
+                "url": "/spgl",
+                "name": "视频管理",
+                "icon": "",
+                "alert": "",
+                "isAlert": false,
+                "SoftType": 32,
+                "isShow": true
+            },
+            {
+                "url": "/bjyy",
+                "name": "诊断管理",
+                "icon": "",
+                "alert": "",
+                "isAlert": false,
+                "SoftType": 32,
+                "isShow": true
+            }
+        ]
+    }
+]

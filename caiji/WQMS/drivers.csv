@@ -1,0 +1,16 @@
+ID,Driver,Protocal,ParseClass,ConnStr,TagFile,Used,DevTag,Factory,Series,DevTagName
+1,S7Smart,S7Client,,192.168.0.4,/WQMS/plc.csv,TRUE,PLC,西门子,XMZ,PLC
+100,Modbus,MBRS232,,COM9:9600:None:8:One,/WQMS/Meter.csv,TRUE,TN;TP;COD;NH3;CODCR,雪迪龙,MODEL 9850;MODEL 9840;MODEL 9811;MODEL 9820;MODEL 9810,总氮;总磷;高指;氨氮;化学需氧量
+3,Modbus,MBRS232,,COM7:2400:None:8:One,/WQMS/tnjb.csv,TRUE,TNJB,雪迪龙,SDL 1002,总氮加标
+5,Modbus,MBRS232,,COM5:2400:None:8:One,/WQMS/tpjb.csv,TRUE,TPJB,雪迪龙,SDL 1002,总磷加标
+7,Modbus,MBRS232,,COM3:2400:None:8:One,/WQMS/codjb.csv,TRUE,CODJB,雪迪龙,SDL 1002,高指加标
+9,Modbus,MBRS232,,COM1:2400:None:8:One,/WQMS/nh3jb.csv,TRUE,NH3JB,雪迪龙,SDL 1002,氨氮加标
+11,Modbus,MBRS232,,COM10:2400:None:8:One,/WQMS/codcrjb.csv,TRUE,CODCRJB,雪迪龙,SDL 1002,化学需氧量加标
+12,Modbus,MBRS232,,COM2:9600:None:8:One,/WQMS/wc.csv,TRUE,WC,E+H,MODEL 2000,五参数
+13,Modbus,MBRS232,,COM4:9600:None:8:One,/WQMS/zf.csv,TRUE,ZF,雪迪龙,AW1485B,站房(温，湿度)
+16,Modbus,MBRS232,,COM6:9600:None:8:One,/WQMS/ly_hengda.csv,TRUE,LY,浙江恒达,ZSC,留样单元
+101,Modbus,MBRS232,,COM6:9600:None:8:One,/WQMS/LHHM.csv,TRUE,HM,力合,LFEC-2006,铅;镉;铜;锌
+102,Modbus,LHVOCTCP,,COM6:9600:None:8:One,/WQMS/LHVOCS.csv,TRUE,VOCS,力合,LFGC-2012,1，2—二氯乙烷;甲苯;氯苯;1，2—二氯苯;1，4—二氯苯;异丙苯;苯乙烯;对，间二甲苯;三溴甲烷;三氯甲烷;邻二甲苯;1，1—二氯乙烯;1，2-二氯乙烯;乙苯;二氯甲烷;三氯乙烯;四氯乙烯;苯
+19,Modbus,MBRS232,,COM6:9600:None:8:One,/WQMS/llj-kaihong.csv,TRUE,LLJ,开闳,WL-1A4,流量计
+22,Modbus,LHVOCTCP,,COM6:9600:None:8:One,/WQMS/swdx.csv,TRUE,SWDX,雪迪龙,MODEL 9880,生物毒性
+23,Modbus,LHVOCTCP,,COM6:9600:None:8:One,/WQMS/AN.csv,TRUE,AN,幕迪科技,AN-8000,苯胺

@@ -1,0 +1,16 @@
+{
+    "1":"OK",
+    "OK":"1",
+    "2":"FAILED",
+    "FAILED":"2",
+    "3":"ERROR",
+    "ERROR":"3",
+    "4":"TIMEOUT",
+    "TIMEOUT":"4",
+    "5":"BUSY",
+    "BUSY":"5",
+    "6":"SYSTEM_ERROR",
+    "SYSTEM_ERROR":"6",
+    "100":"UNKNOWN",
+    "UNKNOWN":"100"
+}

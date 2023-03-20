@@ -1,0 +1,23 @@
+{
+    "startHost": "127.0.0.1",
+    "startPort":6060,
+    "caijiUrl":"./caiji/",
+    "sysIniUrl": "./caiji/SystemConfig.ini",
+    "Templateconfigurl": "./caiji/Template/",
+    "version": "new",
+    "remark": "old|new;",
+    "pro_ev": 2,
+    "pro_ev_remark": "开发标识(1:生产;2:开发)",
+    "pollutantConfigUrl_pro": "../dist/static/config.js",
+    "pollutantConfigUrl_dev": "./static/config.js",
+    "zhuoDuYuChuLi": false,
+    "softInfo": "标准版",
+    "softInfo_remark": "部署类型：非标准版,标准版",
+    "KeFuPhone": "010-80735600",
+    "softAuthorUrl": "http://172.16.22.118:7070/pro/save",
+    "ImgHostName": "http://127.0.0.1:6060/",
+    "wqPDFURL":"pdfs/wqms_question.pdf",
+    "wwPDFURL":"pdfs/wwms_question.pdf",
+    "_appConfigurl": "./server/appConfig.json",
+    "customPointName":""
+}

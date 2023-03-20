@@ -1,0 +1,6 @@
+ID,Driver,Protocal,ParseClass,ConnStr,TagFile,Used,DevTag,Factory,Series,DevTagName
+100,Modbus,MBRS232,,COM1:9600:None:8:One,/WWMS/Meter.csv,TRUE,TN;TP;NH3;CODCR, 雪迪龙,MODEL 9850;MODEL 9840;MODEL 9820;MODEL 9810,总氮;总磷;氨氮;化学需氧量
+12,Modbus,MBRS232,,COM2:9600:None:8:One,/WWMS/wc.csv,TRUE,WC,E+H,MODEL 2000,五参数
+13,Modbus,MBRS232,,COM4:9600:None:8:One,/WWMS/zf.csv,TRUE,ZF,雪迪龙,AW1485B,站房(温，湿度)
+19,Modbus,MBRS232,,COM6:9600:None:8:One,/WWMS/llj.csv,TRUE,LLJ,九波声迪科技,WL-1A2,流量计
+20,Modbus,MBRS232,,COM6:9600:None:8:One,/WWMS/cyq.csv,TRUE,CYQ,德润,MODEL 9870,采样器
