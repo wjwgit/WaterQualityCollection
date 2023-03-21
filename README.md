@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # water
 
 > A Vue.js project
@@ -28,3 +29,7 @@ npm test
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# WaterQualityCollection
+水质采集控制软件
+>>>>>>> 755913259ffae9b1223c880543aea268868bc319
